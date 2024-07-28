@@ -1,0 +1,30 @@
+.App {
+  width: 500px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: aqua;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  border-style: double;
+  border-color: #000000;
+  padding-top: 20px;
+}
+
+textarea {
+  width: 80%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  resize: vertical;
+}
+
+h1 {
+  color: #333;
+  padding-top: 10px;
+}
+.cnt {
+  color: black;
+  padding-left: 1px;
+  padding-bottom: 10px;
+}

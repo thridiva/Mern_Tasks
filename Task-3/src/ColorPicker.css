@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.color-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 30px;
+  padding-left: 300px;
+  padding-bottom: 30px;
+}
+
+.color-box {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  align-items: center;
+}
+
+.selected-color {
+  font-weight: bold;
+  margin-top: 100px;
+  margin-bottom: 40px;
+  padding-top: 5px;
+}
+.app.color-box {
+  padding-left: 50px;
+}
+.sselcted-color {
+  padding-left: 50px;
+}
